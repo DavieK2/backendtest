@@ -1,4 +1,4 @@
-# Wallet Managemanet System
+# Checker Marker System
 
 This is a simple but over-engineered application for Wallet Management. Built with PHP, Laravel, and TailwindCSS, it incorporates several design patterns such as Repository Pattern, Service Classes, Action Classes, Interfaces to ensure maintainability and scalability.
 
